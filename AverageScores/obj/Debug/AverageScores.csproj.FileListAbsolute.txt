@@ -1,0 +1,9 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\bin\Debug\AverageScores.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\bin\Debug\AverageScores.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\bin\Debug\AverageScores.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\obj\Debug\AverageScores.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\obj\Debug\AverageScores.frmMain.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\obj\Debug\AverageScores.Properties.Resources.resources
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\obj\Debug\AverageScores.csproj.GenerateResource.Cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\obj\Debug\AverageScores.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\AverageScores\AverageScores\obj\Debug\AverageScores.pdb
